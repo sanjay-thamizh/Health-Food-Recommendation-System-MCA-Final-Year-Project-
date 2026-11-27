@@ -108,8 +108,9 @@ aarogya-anna/
     └── aarogya_anna.db     ← auto-created SQLite file (gitignored)
 ```
 
-📸 project screenshots
-Dashboard 
+📸 Project Screenshots
+
+💻 Dashboard 
 <img width="1920" height="1080" alt="Screenshot 2026-11-23 165220" src="https://github.com/user-attachments/assets/c7a42960-2631-425e-9268-748536cdee87" />
 🤖 Aarogya AI Chatbot
 <img width="1920" height="1080" alt="Screenshot 2026-11-15 141644" src="https://github.com/user-attachments/assets/a66036dc-5a7a-42d8-b090-47dc247479f2" />
