@@ -108,7 +108,16 @@ aarogya-anna/
     └── aarogya_anna.db     ← auto-created SQLite file (gitignored)
 ```
 
----
+📸 project screenshots
+Dashboard 
+<img width="1920" height="1080" alt="Screenshot 2026-11-23 165220" src="https://github.com/user-attachments/assets/c7a42960-2631-425e-9268-748536cdee87" />
+🤖 Aarogya AI Chatbot
+<img width="1920" height="1080" alt="Screenshot 2026-11-15 141644" src="https://github.com/user-attachments/assets/a66036dc-5a7a-42d8-b090-47dc247479f2" />
+🌞 Circadian Intelligence 
+<img width="1920" height="1080" alt="Screenshot 2026-11-15 141808" src="https://github.com/user-attachments/assets/b61a6dda-e486-4d01-8411-1fe0ff238952" />
+🥗 Food Synergy
+<img width="1920" height="1080" alt="Screenshot 2026-11-23 165434" src="https://github.com/user-attachments/assets/a87547dc-2c11-40f2-8329-9053f442ec4e" />
+
 
 ## Why the AI didn't work on clone
 
